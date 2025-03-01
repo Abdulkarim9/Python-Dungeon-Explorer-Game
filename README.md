@@ -18,9 +18,6 @@ A procedurally generated dungeon crawler game created using Pygame. The game fea
 - **Interactive UI**: Animated menus, health bars, score tracking, and game state screens.
 - **Progression**: Navigate through 5 increasingly difficult levels to achieve victory.
 
-## Screenshots
-
-The game uses procedurally generated visuals created with Pygame's drawing functions—no external assets are used.
 
 ## Requirements
 
